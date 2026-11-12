@@ -1,10 +1,10 @@
 <div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=affan-main&labelColor=%230d1117&countColor=%232563eb&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=affanmain&labelColor=%230d1117&countColor=%232563eb&style=flat-square)
 
 # 👋 Hi, I'm Affan Adil
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%26+AI+Enthusiast;Arduino+Expert+%7C+ESP32+%26+ESP8266+Specialist;Raspberry+Pi+%26+Embedded+IoT+Builder;Bridging+Hardware+Circuits+to+Cloud+Software)](https://github.com/affan-main)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%26+AI+Enthusiast;Arduino+Expert+%7C+ESP32+%26+ESP8266+Specialist;Raspberry+Pi+%26+Embedded+IoT+Builder;Bridging+Hardware+Circuits+to+Cloud+Software)](https://github.com/affanmain)
 
 **Full Stack Developer | Arduino Expert | Raspberry Pi & ESP Specialist | IoT & Embedded Systems | AI Enthusiast**
 
@@ -12,9 +12,9 @@
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-affan--main-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/affan-main)
+[![GitHub](https://img.shields.io/badge/GitHub-affan--main-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/affanmain)
 [![Email](https://img.shields.io/badge/Email-affan.a.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affan.a.official@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://affanadil.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/affanmain)
 
 </div>
 
@@ -73,22 +73,22 @@ I am a multifaceted developer and electronics engineer working at the intersecti
 
 <div align="center">
 
-[![Affan's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=affan-main&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/affan-main)
+[![Affan's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=affanmain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/affanmain)
 
 <br/>
 
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=affan-main&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Affan's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=affanmain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Affan's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affan-main&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affanmain&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=affan-main&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=1800)](https://github.com/affan-main)
+[![GitHub Streak](https://streak-stats.demolab.com?user=affanmain&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=1800)](https://github.com/affanmain)
 
 </div>
 
@@ -225,7 +225,7 @@ Last Updated on 31/10/2026 21:49:17 UTC
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-affan--main-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/affan-main)
+[![GitHub](https://img.shields.io/badge/GitHub-affan--main-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/affanmain)
 [![Email](https://img.shields.io/badge/Email-affan.a.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affan.a.official@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
