@@ -14,7 +14,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-affan--main-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/affan-main)
 [![Email](https://img.shields.io/badge/Email-affan.a.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affan.a.official@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/affan-main)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://affanadil.lovable.app/)
 
 </div>
 
